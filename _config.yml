@@ -1,4 +1,4 @@
 name: Test Github Pages
 markdown: redcarpet
 pygments: true
-baseurl: /
+baseurl: http://blog.therobustone.com/
