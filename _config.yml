@@ -1,0 +1,4 @@
+name: Test Github Pages
+markdown: redcarpet
+pygments: true
+baseurl: /
